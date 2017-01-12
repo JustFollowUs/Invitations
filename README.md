@@ -30,8 +30,9 @@
    
    我们目前主要做大的研究方向，还是以机器学习为例，大家可以参见下面简易的模板通过询问优秀的博士学长或者老师或有领域优秀人士进行填写，https://github.com/JustFollowUs/Template。
    
-   如果有什么不明白的地方，可以加入我们的QQ群450782931进行讨论。大家可以把填写好的excel表格发送至我们的公共邮箱13951852215@163.com，由我们整理放到我们的公共github主页上面https://github.com/JustFollowUs/All-Departments。
-   
+   如果有什么不明白的地方，可以加入我们的QQ群450782931进行讨论。大家可以把填写好的excel表格发送至我们的公共邮箱13951852215@163.com，由我们整理放到我们的公共github主页上面https://github.com/JustFollowUs/All-Departments。 我们的群友在知乎上也提了一个类似的问题[
+该如何系统的高效的专业的学习？](https://www.zhihu.com/question/54536094/)，如果有兴趣，可以直接去关注或者回答哦，非常感谢！
+  
    **excel可以直接在上面进行下载**。
    
 ## 补充
